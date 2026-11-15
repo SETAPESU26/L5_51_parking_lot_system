@@ -1,0 +1,17 @@
+************* Module parking_lot_system
+parking_lot_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+parking_lot_system.py:4:0: W0105: String statement has no effect (pointless-string-statement)
+parking_lot_system.py:15:0: C0103: Constant name "totalCollections" doesn't conform to UPPER_CASE naming style (invalid-name)
+parking_lot_system.py:18:0: C0103: Function name "parkVehicle" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:20:4: W0603: Using the global statement (global-statement)
+parking_lot_system.py:33:0: C0103: Function name "releaseSlot" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:43:0: C0103: Function name "checkSlotAvailability" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:52:0: C0103: Function name "calculateParkingFee" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:63:0: C0103: Function name "generateVehicleHash" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:68:0: C0103: Function name "generateTicketPin" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:73:0: C0103: Function name "exportParkingManifest" doesn't conform to snake_case naming style (invalid-name)
+parking_lot_system.py:80:0: C0103: Function name "getAvailableSummary" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.10/10 (previous run: 8.10/10, +0.00)
+
